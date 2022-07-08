@@ -23,3 +23,7 @@ Repositorio con links para consulta de temas en general de informatica
 
 ## MarkDown
 * https://guides.github.com/features/mastering-markdown/
+
+##flask:
+
+* https://flask.palletsprojects.com/en/2.1.x/quickstart/
